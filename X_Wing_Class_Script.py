@@ -2,8 +2,9 @@
 # Created 2-26-19
 # Last Edited 2-26-19
 
-python -m pip install numpy
+#python -m pip install numpy
 # Installs numpy library
+import numpy as np
 
 class X_Wing:
     # Creates X-Wing class and related information
